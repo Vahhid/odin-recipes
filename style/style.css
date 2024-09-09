@@ -1,6 +1,13 @@
+
 * {
-    color:purple;
+    background-color:black;
 }
+
 body{
-    background-color: black;
+    background-color: rgb(40, 42, 148);
+    color:white;
+}
+img{
+    height: auto;
+    width:500px;
 }
